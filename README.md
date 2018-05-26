@@ -1,9 +1,14 @@
 # Autonio - A TechCrunch + Vivatech 2018 Hackathon project
+
 How autonomous vehicles can preserve the mobility of seniors. #TechCrunch #Vivatech #Hackathon
 
-We've created a service using Renault's autonomous driving cars as an answer to the urging problem of isolationm of the elderly.
+We've created a service using Renault's autonomous driving cars as an answer to the urging problem of isolation of the elderly.
+
+## Painpoints we were searching for the answer
 
 ## Steps inside of the application
+
+## Autonio app -- in progress
 
 ## [Autonio website](https://javpet.github.io/Autonio/) -- in progress
 
