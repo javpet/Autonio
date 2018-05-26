@@ -8,6 +8,12 @@ We've created a service using Renault's autonomous driving cars as an answer to 
 
 ## Painpoints we were searching for the answer
 
+* Social isolation of seniors (60+) is real public health issue
+* The main cause is the loss of independence autonomy which also comes with the deteorization of health
+* As the consequence of the limits of their body mentally or physically the elders get bored and anxious about themselves
+* They afraid to find new hobbies and their old connections are mostly disappears with time
+* They also proud and with dignity so don't ask permission from the family or help, they don't want to pull back their relatives
+
 ## Steps inside of the application
 
 ## Autonio app -- in progress
