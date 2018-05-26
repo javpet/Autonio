@@ -1,4 +1,4 @@
-![autonio_renault_lockup](https://user-images.githubusercontent.com/9334646/40573065-91db38ea-60bb-11e8-9496-c30a4ba5e64c.png)
+![autonio_renault_lockup](https://user-images.githubusercontent.com/9334646/40573072-c12b9e14-60bb-11e8-8510-fb83385de2ad.png)
 
 # Autonio - A TechCrunch + Vivatech 2018 Hackathon project
 
