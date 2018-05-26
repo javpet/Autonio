@@ -30,7 +30,7 @@ Our persona: Maggie is 75 years old widow without serious health issues. She has
 
 ## Autonio app -- in progress
 
-![screen shot 2018-05-26 at 10 14 13](https://user-images.githubusercontent.com/9334646/40574148-d6192f3c-60cd-11e8-99a4-dfe8f0a3a24f.png)
+![how_it_works](https://user-images.githubusercontent.com/9334646/40574158-0381c0e2-60ce-11e8-822c-1f15fde4bf07.png)
 
 ## [Autonio website](https://javpet.github.io/Autonio/) -- in progress
 
