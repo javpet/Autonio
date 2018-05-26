@@ -1,3 +1,5 @@
+![autonio_logo_favicon](https://user-images.githubusercontent.com/9334646/40573048-204578d0-60bb-11e8-9b78-7c623e2cf1a7.png)
+
 # Autonio - A TechCrunch + Vivatech 2018 Hackathon project
 
 How autonomous vehicles can preserve the mobility of seniors. #TechCrunch #Vivatech #Hackathon
