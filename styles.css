@@ -209,6 +209,7 @@ header nav li {
 	opacity: 0;
 	margin-top: 100px;
 	animation: 1s slidefade 1s forwards;
+	width: 900px;
 }
 
 @keyframes slidefade {
@@ -277,7 +278,7 @@ header nav li {
 }
 
 .packages .grid li i {
-	color: #e07e7b;
+	color: #31c0c4;
 }
 
 .packages .grid li h4 {
